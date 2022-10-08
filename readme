@@ -1,1 +1,9 @@
-this is the readme file!!
+To run this project in your local machine:-
+1. Clone the repository.
+2. Open the code folder in vs code.
+3. Create 2 terminals 
+   a. In the first one run $ cd client
+   b. In the second one run $ cd server
+4. Then run $ npm start in both the terminals. 
+5. The developement server will start running🌟🌟!!
+
